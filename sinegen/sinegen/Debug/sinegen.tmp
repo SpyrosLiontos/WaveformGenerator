@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega1284P"</DEVICE>
+ <WORKING_DIR>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m1284Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\Debug\sinegen.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>sinegen.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>sinegen.map</FILE>
+  <FILE>sinegen.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>13</LINE></main>
+  <sinewave><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>28</LINE></sinewave>
+  <triwave><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>47</LINE></triwave>
+  <squarewave><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>66</LINE></squarewave>
+  <sinetable><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>95</LINE></sinetable>
+  <startsine><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>31</LINE></startsine>
+  <finitosine><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>44</LINE></finitosine>
+  <delay><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>87</LINE></delay>
+  <tritable><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>99</LINE></tritable>
+  <starttri><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>50</LINE></starttri>
+  <finitotri><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>63</LINE></finitotri>
+  <squaretable><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>106</LINE></squaretable>
+  <startsquare><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>69</LINE></startsquare>
+  <finitosquare><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>82</LINE></finitosquare>
+  <finitodelay><FILE>C:\Users\user\Desktop\Πρασσος Λιντος\sinegen\sinegen\main.asm</FILE><LINE>92</LINE></finitodelay>
+ </LABELS>
+</ASSEMBLER_INFO>
